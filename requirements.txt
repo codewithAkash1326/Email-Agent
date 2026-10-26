@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+google-genai
+langchain-openrouter
+python-dotenv
+pydantic
